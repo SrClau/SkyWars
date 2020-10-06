@@ -18,7 +18,8 @@ Be the last man (or team if teams exist) standing on heavenly islands with varie
 
 
 # Permissions
-
+| CMD | USAGE | PERMISSION |
+| --- | --- | --- |
 
 
 # How to use?
