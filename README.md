@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
 </a>
 <br></br>
-Intro
+Be the last man (or team if teams exist) standing on heavenly islands with varied scenarios. Kits and particles, among other visual effects, are one of the variables
 <br />
 <br></br>
 
