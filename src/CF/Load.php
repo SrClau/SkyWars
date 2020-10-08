@@ -10,7 +10,7 @@ class Load extends PB implements LT {
 public static $instancia;
 public static $config = [];
 public const PREFIX_SW = "§8[§bSkyWars§8]";
-public const SW_WAITING = "§8[§bWaiting§8];
+public const SW_WAITING = "§8[§bWaiting§8]";
 
 public function onEnable(){
 
