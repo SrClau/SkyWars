@@ -1,9 +1,8 @@
 # Security Policy
 
 ## Supported Versions
-Compatible = :white_check_mark:
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Compatible = :white_check_mark:<br>
+No Compatible = :x:
 
 | Version | Supported          |
 | ------- | ------------------ |
