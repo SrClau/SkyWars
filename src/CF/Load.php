@@ -1,10 +1,11 @@
 <?ph
 
-nanespace CF;
+namespace CF;
 
 use pocketmine\plugin\PluginBase as PB;
 use pocketmine\event\Listener as LT;
-
+use pocketmine\utils\{Config,TextFormat as Text};
+use pocketmine\{Server,Player};
 class Load extends PB implements LT {
 
 public static $instancia;
