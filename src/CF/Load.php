@@ -13,7 +13,7 @@ public static $config = [];
 public const PREFIX_SW = "§8[§bSkyWars§8]";
 public const SW_RESTART = "§8[§eRestarting§8]";
 public const SW_WAITING = "§8[§bWaiting§8]";
-
+public const SW_GAME = "§8[§cIn Game§8]";
 public function onEnable(){
 
 
