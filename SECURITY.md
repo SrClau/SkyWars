@@ -3,6 +3,7 @@
 ## Supported Versions
 Compatible = :white_check_mark:<br>
 No Compatible = :x:
+Compatible Versions are stable with the Security Policy
 
 | Version | Supported          |
 | ------- | ------------------ |
