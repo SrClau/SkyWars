@@ -15,7 +15,7 @@ public const SW_RESTART = "§8[§eRestarting§8]";
 public const SW_WAITING = "§8[§bWaiting§8]";
 public const SW_GAME = "§8[§cIn Game§8]";
 public function onEnable(){
-
+self::$instancia = $this;
 
 $this->getLogger()->info('Enabled SkyWars');
 $this->getLogger()->notice('Poggit: https://poggit.pmmp.io/SrClau/SkyWars, GitHub: https://github.com/SrClau/SkyWars, Discord: httpz://discord.gg/');
