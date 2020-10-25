@@ -8,8 +8,7 @@
 <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
 </a>
 <br></br>
-Be the last man (or team if teams exist) standing on heavenly islands with varied scenarios.  Kits and particles, among other visual effects, are one of the variables that can affect and make a difference between each of the games played in a SkyWars.
- Over time, this modality has evolved until the existence of variations such as Lucky SkyWars or TeamSkyWars, all of them refer to other game modalities considered totally separate from the original SkyWars.
+
 <br />
 <br></br>
 
