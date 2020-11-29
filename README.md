@@ -19,6 +19,7 @@
 # Permissions
 | CMD | USAGE | PERMISSION |
 | --- | --- | --- |
-
+| help | /sw help | sw.help |
+| author | /sw author | sw.author |
 
 # How to use?
