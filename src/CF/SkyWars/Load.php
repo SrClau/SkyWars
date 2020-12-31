@@ -14,7 +14,13 @@ public static $instance = null;
 
 //public $ymls = [];
   
+/* @here Function Enable */
 public function onEnable(){
-$this->getLogger()->notice("");
-}
+$this->getLogger()->notice("Plugin SkyWars Enabled");
+$config = new Config($this->getDataFolder()."config.yml", Config::YAML);
+if($config->get("arenas") == null) {
+ $config->set("arenas", []);
+ $config->save();
+     }
+  }
 }
