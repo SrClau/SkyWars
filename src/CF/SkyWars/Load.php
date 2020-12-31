@@ -13,6 +13,11 @@ class Load extends PluginBase {
 public static $instance = null;
 
 //public $ymls = [];
+
+/* @here Function Load */
+public function onLoad(){
+  
+}
   
 /* @here Function Enable */
 public function onEnable(){
