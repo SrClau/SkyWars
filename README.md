@@ -4,7 +4,7 @@
 <a href="https://discord.gg/Js63vy7">
 <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="discord">
 </a>
-<a href="https://github.com/SrClau/SkyWars/blob/main/LICENSE">
+<a href="https://github.com/SrClau/SkyWars/main/LICENSE">
 <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
 </a>
 <br></br>
