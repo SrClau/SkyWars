@@ -7,24 +7,4 @@
 <a href="https://github.com/SrClau/SkyWars/blob/main/LICENSE">
 <img src="https://img.shields.io/badge/license-Apache%20License%202.0-yellowgreen.svg" alt="license">
 </a>
-<br></br>
-
 <br />
-<br></br>
-
-# Commands
-
-
-
-# Permissions
-| CMD | USAGE | PERMISSION |
-| --- | --- | --- |
-| help | /sw help | sw.help |
-| author | /sw author | sw.author |
-
-# How to use?
-
-
-# API?
-
-No
