@@ -1,6 +1,5 @@
-name: SkyWarsCF
+name: SkyWars
 version: 0.0.1-test
-api: [3.0.0,4.0.0]
-main: CF\SkyWars\Load
-author: SrClauYT
-website: 'https://TeamCF.xyz/Intro.php'
+api: 3.0.0
+main: SkyWars\SkyWars
+website: "https://myserver.com/"
